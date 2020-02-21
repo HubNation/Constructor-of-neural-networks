@@ -1,0 +1,16 @@
+C:\Users\SempaY\source\repos\Recognition\Project\bin\Debug\Project.exe.config
+C:\Users\SempaY\source\repos\Recognition\Project\bin\Debug\Project.exe
+C:\Users\SempaY\source\repos\Recognition\Project\bin\Debug\Project.pdb
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.exe
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.pdb
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.MainForm.resources
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.Authorization.resources
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.Networking.resources
+C:\Users\SempaY\source\repos\Recognition\Project\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\SempaY\source\repos\Recognition\Project\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\SempaY\source\repos\Recognition\Project\obj\Debug\Project.Training.resources
